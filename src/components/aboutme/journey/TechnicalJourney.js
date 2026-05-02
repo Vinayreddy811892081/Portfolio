@@ -6,19 +6,9 @@ import {
 import { Link } from "react-router-dom";
 import StarIcon from "@mui/icons-material/Star";
 import ComputerIcon from "@mui/icons-material/Computer";
-import StorageIcon from "@mui/icons-material/Storage";
 import CodeIcon from "@mui/icons-material/Code";
-import {
-  DiHtml5,
-  DiPython,
-  DiReact,
-  DiJava,
-  DiCss3,
-  DiJavascript1,
-  DiMysql,
-  DiNodejs,
-} from "react-icons/di";
-import { SiPandas, SiNumpy } from "react-icons/si";
+import { DiReact, DiMysql, DiNodejs } from "react-icons/di";
+import { SiPandas } from "react-icons/si";
 import Flip from "react-reveal/Flip";
 
 const skills = [

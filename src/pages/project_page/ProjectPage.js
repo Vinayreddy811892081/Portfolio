@@ -10,7 +10,6 @@ import ci from "../../images/onboarding.png";
 import pp from "../../images/portfolio.png";
 import nyc from "../../images/nyc.png";
 import meal from "../../images/meal.png";
-import calculator from "../../images/calculator.png";
 
 export default function ProjectPage() {
   const projects = [
